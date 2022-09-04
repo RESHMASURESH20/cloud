@@ -8,17 +8,17 @@ Application to order Takeaway food
 
 The purpose of this project is to cover:
 
--Ordering of takeaway food from a restaurant
--Order and cancel of food 
--Manage order (Sales )
--Manage order(Customer)
+	-Ordering of takeaway food from a restaurant
+	-Order and cancel of food 
+	-Manage order (Sales )
+	-Manage order(Customer)
 
 
 Frontend
 
 
--login page
--Admin login - Admin Home page
+                -login page
+		-Admin login - Admin Home page
 		      -Order history
 		      -Available Products
 	  	      -Add products
@@ -27,10 +27,12 @@ Frontend
 
 
 
-- Customer login - Customer Home page
+               - Customer login - Customer Home page
 			   - Product page
 			   - Customer Order history
 			   - Make Order
+ 
+ 
  
 Backend
 
