@@ -7,10 +7,12 @@ Application to order Takeaway food
 
 The purpose of this project is to cover:
 
+
 -Ordering of takeaway food from a restaurant
 -Order and cancel of food 
 -Manage order (Sales )
 -Manage order(Customer)
+
 
 
 Frontend
@@ -44,6 +46,7 @@ Backend
 					-Cart Details
 
 Procedural Steps to start the Application:
+
  	-Backend
 		-Base Endpoints
 				-http://localhost:8084 - User 
