@@ -16,18 +16,24 @@ The purpose of this project is to cover:
 
 Frontend
 
+
 -login page
 -Admin login - Admin Home page
 		      -Order history
 		      -Available Products
 	  	      -Add products
 		      -Edit products and delete products
--Customer login - Customer Home page
+		      
+
+
+
+- Customer login - Customer Home page
 			   - Product page
 			   - Customer Order history
 			   - Make Order
  
 Backend
+
 		- Microservices
 				-UserService - Details of user and authentication of user
 				-AdminService-Inventory management
@@ -45,6 +51,7 @@ Backend
 					-Cart Details
 
 Procedural Steps to start the Application:
+
  	-Backend
 		-Base Endpoints
 				-http://localhost:8084 - User 
