@@ -49,6 +49,7 @@ Backend
 					- Inventory
 				-MongoDb
 					-Order Details
+					-Cart Details
 				-Redis
 					-Cart Details
 
